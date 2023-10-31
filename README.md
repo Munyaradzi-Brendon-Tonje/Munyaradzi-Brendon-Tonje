@@ -1,7 +1,5 @@
 ### 👋 Hello , I'm @Munyaradzi-Brendon-Tonje 
 
-<!--
-**Munyaradzi-Brendon-Tonje/Munyaradzi-Brendon-Tonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- Skillset: I am fairly decent at using Phython, Java and C++.
+- Skillset: I am fairly decent at using Phython
 - ⚽ Hobbies: I enjoy playing and watching Football and any other sport but mainly football.
 - 📫 How to reach me: through email at munyatonje10@gmail.com (personal email address).
 - 😄 Pronouns: He/Him.
