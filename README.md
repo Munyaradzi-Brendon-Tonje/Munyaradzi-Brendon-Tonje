@@ -65,12 +65,12 @@
          </ol>
 </section>
 <section>
-<h2><i><p>- 📫 How to reach me:</p></h2><i> Through email at munyatonje10@gmail.com
+<h2><i><p>- 📫 How to reach me:</p></i><h2> Through email at munyatonje10@gmail.com
 
 </section>
 <section>
-<p>- 😄 Pronouns: He/Him.</p>
-<p><em>- ⚡ Fun fact</em>: I can do a Backflip and I can juggle a football for almost two hours without stopping</p>
+<h2><i><p>- 😄 Pronouns: He/Him.</p></i></h2>
+<h2><i><p><p><em>- ⚡ Fun fact</em>: I can do a Backflip and I can juggle a football for almost two hours without stopping</p></i></h2>
 </section>
 
 </body>
