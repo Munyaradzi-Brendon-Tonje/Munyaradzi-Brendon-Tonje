@@ -5,13 +5,6 @@
 <head>
 <title>Munyaradzi Brendon Tonje Github Portfolio Homepage </title>
 <meta name= "description" content "This is my Github Portfolio Coded Using Html">
-<!-- Backgroud Color -->
-<style>
- body {
-     background: black;
-     color: white;
- }
-</style>
 </head>
 <body>
 
