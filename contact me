@@ -1,0 +1,17 @@
+<style>
+ body {
+     background: grey;
+     color: black;
+ }
+</style>
+<body>
+<section>
+<a href= "index.html">Home</a>
+</section>
+<img src="giphy.gif" alt= "Hello gif">. 
+<section>
+<p>- 📫 How to reach me: Through email at munyatonje10@gmail.com (This is my personal email address).</p>
+email address
+<p><i> press the Home text above the image to go back </i></p>
+</body>
+</section>
