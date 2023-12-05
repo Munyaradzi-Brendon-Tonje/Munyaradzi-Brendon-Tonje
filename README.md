@@ -66,7 +66,6 @@
 </section>
 <section>
 <h2><i><p>- 📫 How to reach me:</p></i><h2> Through email at munyatonje10@gmail.com
-
 </section>
 <section>
 <h2><i><p></i></h2>- 😄 Pronouns: He/Him.</p>
