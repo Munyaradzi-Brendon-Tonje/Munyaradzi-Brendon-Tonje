@@ -68,7 +68,7 @@
 <h2><i><p>- 📫 How to reach me:</p></i><h2> Through email at munyatonje10@gmail.com
 </section>
 <section>
-<h2><i><p></i></h2>- 😄 Pronouns:</p></i><h2> He/Him.</p>
+<h2><i><p></i></h2>- 😄 Pronouns:</p></i><h2> He/Him.
 <h2><i><p><em>- ⚡ Fun fact:</em></i></h2> I can do a Backflip and I can juggle a football for almost two hours without stopping</p>
 </section>
 
