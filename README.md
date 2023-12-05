@@ -65,8 +65,8 @@
          </ol>
 </section>
 <section>
-<p>- 📫 How to reach me: 
-<a href="contact me.html">email address</a>
+<h2><i><p>- 📫 How to reach me:</p></h2><i> Through email at munyatonje10@gmail.com
+
 </section>
 <section>
 <p>- 😄 Pronouns: He/Him.</p>
