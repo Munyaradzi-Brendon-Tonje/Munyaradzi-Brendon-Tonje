@@ -69,8 +69,8 @@
 
 </section>
 <section>
-<h2><i><p>- 😄 Pronouns: He/Him.</p></i></h2>
-<h2><i><p><p><em>- ⚡ Fun fact</em>: I can do a Backflip and I can juggle a football for almost two hours without stopping</p></i></h2>
+<h2><i><p></i></h2>- 😄 Pronouns: He/Him.</p>
+<h2><i><p><em>- ⚡ Fun fact</em></i></h2>: I can do a Backflip and I can juggle a football for almost two hours without stopping</p>
 </section>
 
 </body>
