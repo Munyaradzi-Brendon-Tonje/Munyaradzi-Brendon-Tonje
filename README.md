@@ -24,11 +24,11 @@
 <section>
         <h2><p>- 🔭 I’m currently working</p></h2>
         <ul>
-        <li>On my assessments for my Programming TUtotials 2.</li> 
+        <li>On my assessments for my Programming Tutotials 2.</li> 
         <li>And also Professionalism Employability Enterprise And Problem-Solving.</li>
 </section>
 <section>
-        <h2><p>- 🔭 I’ve recently completed</p></h2>
+        <h2><p>- ⌛ I’ve recently completed</p></h2>
         <ul>
         <li>My Programming Tutorials 1.</li>
         <li>My Report for my Information Management Assurance And security.</li>
