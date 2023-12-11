@@ -14,8 +14,26 @@
 <img src="giphy (1).gif" alt= "Hello gif">.
 <!-- This is information about my studies and personal details --> 
 <section>
-        <p>- 👀 About me: I am currently studying Bsc Computer Science at the University of South Wales, to become a Software Developer.</p>
-        <p>- 🔭 I’m currently working on my assessments for my Programming module and Information Management, Assurance And security module.</p>
+        <h2><p>- 👀 About me:</p></h2> 
+        <ul>
+        <li>I am currently studying Bsc Computer Science at the University of South Wales </li> 
+        <li>I want to become a Software Developer.</li>
+        <li>I am 21 years of age.</li>
+        </ul>
+</section>
+<section>
+        <h2><p>- 🔭 I’m currently working</p></h2>
+        <ul>
+        <li>On my assessments for my Programming TUtotials 2.</li> 
+        <li>And also Professionalism Employability Enterprise And Problem-Solving.</li>
+</section>
+<section>
+        <h2><p>- 🔭 I’ve recently completed</p></h2>
+        <ul>
+        <li>My Programming Tutorials 1.</li>
+        <li>My Report for my Information Management Assurance And security.</li>
+        <li>My Mathematics examination.</li>
+</section>
 <section>       
  <p><h2>- 🌱 I’m currently learning:</p></h2> 
 <ul>
