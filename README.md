@@ -54,7 +54,7 @@
        <li>My C++ programming.</li>
        <li>My RStudio coding.</li>
 <section>
-        <h2><p>- 💬 Ask me about:</p></h2> 
+        <h2><p>-💬 Ask me about:</p></h2> 
         <ol>
         <li>Sports</li>
         <li>History</li>
