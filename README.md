@@ -49,12 +49,12 @@
          <li>Any future Project that will build my teamwork skills.</li>
 </section>
 <section>
-       <h2><p>- 🤔 I’m looking for help with...</p><h2> 
+       <h2><p>- 🤔 I’m looking for help with...</p></h2> 
        <ul>
        <li>My C++ programming.</li>
        <li>My RStudio coding.</li>
 <section>
-        <h2><p>- 💬 Ask me about:</p><h2> 
+        <h2><p>- 💬 Ask me about:</p></h2> 
         <ol>
         <li>Sports</li>
         <li>History</li>
