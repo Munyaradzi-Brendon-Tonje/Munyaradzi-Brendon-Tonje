@@ -53,6 +53,7 @@
        <ul>
        <li>My C++ programming.</li>
        <li>My RStudio coding.</li>
+       </ul>
 <section>
         <h2><p>-💬 Ask me about:</p></h2> 
         <ol>
