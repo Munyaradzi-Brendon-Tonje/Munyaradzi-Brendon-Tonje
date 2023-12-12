@@ -22,13 +22,13 @@
         </ul>
 </section>
 <section>
-        <h2><p>- 🔭 I’m currently working</p></h2>
+        <h2><p>- 🔭 I’m currently working...</p></h2>
         <ul>
         <li>On my assessments for my Programming Tutotials 2.</li> 
         <li>And also Professionalism Employability Enterprise And Problem-Solving.</li>
 </section>
 <section>
-        <h2><p>- ⌛ I’ve recently completed</p></h2>
+        <h2><p>- ⌛ I’ve recently completed...</p></h2>
         <ul>
         <li>My Programming Tutorials 1.</li>
         <li>My Report for my Information Management Assurance And security.</li>
@@ -43,12 +43,27 @@
 <li>Programming.</li>
         
 </section>
-<p>- 🤝 I’m looking to collaborate on ...</p>
-        <p>- 🤔 I’m looking for help with my C++ programming.</p>
-        <p>- 💬 Ask me about Sports, History, Mathematics and for computer science related questions anything about Phython I can answer.</p>
+<section>
+         <h2><p>- 🤝 I’m looking to collaborate on ...</p></h2>
+         <ul>
+         <li>Any future Project that will build my teamwork skills.</li>
 </section>
 <section>
-        <h2><em>- Skillset:</em></h2>
+       <h2><p>- 🤔 I’m looking for help with...</p><h2> 
+       <ul>
+       <li>My C++ programming.</li>
+       <li>My RStudio coding.</li>
+<section>
+        <h2><p>- 💬 Ask me about:</p><h2> 
+        <ol>
+        <li>Sports</li>
+        <li>History</li>
+        <li>Mathematics</li>
+        <li>nd for computer science related questions anything about Phython and HTML I can answer.</li>
+</section>
+</section>
+<section>
+        <h2><em>- 🎯Skillset:</em></h2>
         <h3><b><u>In Computer Science:</b></u></h3>
         <ul>
                      <li>I am great at using <u>Phython</u> 
@@ -58,7 +73,7 @@
         </ul>
 </section>
 <section>
-        <h3><b><u>Outside of Computer Science:</b></u></h3>
+        <h3><b><u>🏅Outside of Computer Science:</b></u></h3>
         <ol>
                      <li>I am great in track and field sports. 
                      <li>I am good at writing short stories.</li> 
