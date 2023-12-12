@@ -41,7 +41,7 @@
 <li>Mathematical Tools For Computation.</li> 
 <li>Professionalism Employability Enterprise And Problem-Solving.</li>
 <li>Programming.</li>
-        
+</ul>        
 </section>
 <section>
         <h2><p>- 🤝 I’m looking to collaborate on ...</p></h2>
