@@ -44,9 +44,9 @@
         
 </section>
 <section>
-         <h2><p>- 🤝 I’m looking to collaborate on ...</p></h2>
-         <ul>
-         <li>Any future Project that will build my teamwork skills.</li>
+        <h2><p>- 🤝 I’m looking to collaborate on ...</p></h2>
+        <ul>
+        <li>Any future Project that will build my teamwork skills.</li>
 </section>
 <section>
        <h2><p>- 🤔 I’m looking for help with...</p></h2> 
@@ -60,7 +60,7 @@
         <li>History</li>
         <li>Mathematics</li>
         <li>nd for computer science related questions anything about Phython and HTML I can answer.</li>
-</section>
+</ol>
 </section>
 <section>
         <h2><em>- 🎯Skillset:</em></h2>
