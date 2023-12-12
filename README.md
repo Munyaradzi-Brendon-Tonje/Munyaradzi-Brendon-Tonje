@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 
 <html>
@@ -60,7 +59,7 @@
         <li>Sports</li>
         <li>History</li>
         <li>Mathematics</li>
-        <li>nd for computer science related questions anything about Phython and HTML I can answer.</li>
+        <li>And for computer science related questions anything about Phython and HTML I can answer.</li>
 </ol>
 </section>
 <section>
